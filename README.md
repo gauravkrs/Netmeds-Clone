@@ -59,12 +59,6 @@ Netmeds.com is leading E-Commerce website for all type of cosmetic products such
 ![Screenshot from 2022-05-10 19-36-31.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652191857946/zmnU1QWzzc.png?auto=compress,format&format=webp)
 
 
-## Challenges
-
-1. As every journey has some challenges and so was ours. In our team, all of the members were not familiar with each other so it was difficult for all of us to communicate and collaborate, there were some moments when members were not able to communicate with each other and had a conflict and it was hard for everyone to handle these conflicts.
-
-2. Another problem was to merge all of the files in a proper sequence which was again a difficult task for us because while merging and connecting all the pages some of the pages had the same name, and while running the site it was redirecting to some other pages so it was difficult to find the location and to rename the file.
-
 ## Team
 
 - Akshay Patil
