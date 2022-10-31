@@ -67,6 +67,3 @@ Netmeds.com is leading E-Commerce website for all type of cosmetic products such
 - Shubham Pawar	
 - Sagar Kothadiya	
 
-## Authors
-
-- [@Gautam Gohil](https://github.com/gautam6023)
